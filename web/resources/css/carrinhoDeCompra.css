@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 8, 2020, 9:32:48 PM
+    Author     : daisanapaulo
+*/
+
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 6, 2020, 10:45:59 PM
+    Author     : daisanapaulo
+*/
+
+
+
+.root-carrinho {
+    display: block;
+    width: 800px;
+}
+
+.panel-button{
+    padding: 4px;
+}
+
+.imagemProduto {
+    height: 210px;
+    width: 210px;
+    margin: 8px;
+    border-radius: 8px 8px 0 0;
+}
+
+.produto {
+    border-bottom: 1px solid #333;
+    margin: 8px;
+}
+
+.infomacoesProduto {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.infomacoesProdutop {
+    padding: 0;
+    margin: 0 0 3px;
+    margin-top: 15px;
+}
